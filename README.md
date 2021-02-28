@@ -4,7 +4,7 @@ This cheatsheet is built for the Red Teamers and Penetration Testers such in ord
 
 [1.1]: http://i.imgur.com/tXSoThF.png
 [1]: http://www.twitter.com/hackinarticles
-]
+
 
 
 1. [XXE Injection](https://www.hackingarticles.in/comprehensive-guide-on-xxe-injection/)
